@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasviKoppaka
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python tkinter
+- 🌱 I’m currently learning machine learning models 
 - 💞️ I’m looking to collaborate on my pinned projects
 
 <!---
